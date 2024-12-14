@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**gonzfe05/gonzfe05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m glad you’re here. Let me introduce myself.
 
-Here are some ideas to get you started:
+🔧 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a freelance software engineer, data scientist, and machine learning specialist with a passion for solving complex problems. With a strong background in statistics, programming, and machine learning, I help businesses and individuals turn data into actionable insights and robust applications.
+
+👯‍💻 Looking to Collaborate
+
+I’m open to collaborating on projects that involve machine learning models development, data analysis and visualization.
+
+📧 How to Reach Me
+
+The best way to get in touch with me is via email or LinkedIn. Feel free to drop me a message!
+
+Email: [gonzfe05@proton.me](gonzfe05@proton.me)
+
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/fernando-gonzalez-b6baaa61/?locale=en_US)
+
+😎 Fun Fact
+
+When I’m not coding or analyzing data, you’ll find me learning new languages (like Italian) or perfecting the art of making a great cup of coffee ☕️.
+
